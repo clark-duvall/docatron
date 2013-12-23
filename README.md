@@ -1,8 +1,8 @@
 # Docatron
 Docatron generates documentation from source files. Look at the
-[Move.js website](http://clark-duvall.github.io/move/documentation.html) for an
+[Move.js website](http://clarkduvall.github.io/move/documentation.html) for an
 example of the generated docs, and the
-[Move.js source](https://github.com/clark-duvall/move) for an example of
+[Move.js source](https://github.com/clarkduvall/move) for an example of
 Docatron style comments.
 
 ## How to use
@@ -21,7 +21,7 @@ Most of the syntax is specified in [config.py](config.py) in the Regex section.
 The HTML output can also be customized in [config.py](config.py).
 
 A more complete overview of the syntax is on its way, but for now, look at the
-[Move.js source](https://github.com/clark-duvall/move) for a complete example.
+[Move.js source](https://github.com/clarkduvall/move) for a complete example.
 
 ## TODO
 Finish adding Docatron comments to docatron.py
